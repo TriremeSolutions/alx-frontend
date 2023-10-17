@@ -33,19 +33,19 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: var(--font-weight-bold);
 }
 
-a[href], body {
+a:link, body {
     color: var(--text-color);
 }
 
-a[href] {
+a:link {
     text-decoration: none;
 }
 
-a[href]:visited{
+a:link:visited{
     font-style: italic;
 }
 
-a[href]:hover{
+a:link:hover{
     text-decoration: underline;
 }
 
