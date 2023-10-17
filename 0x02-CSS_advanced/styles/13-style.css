@@ -41,11 +41,11 @@ a:link {
     text-decoration: none;
 }
 
-a:link:visited{
+a:link :visited{
     font-style: italic;
 }
 
-a:link:hover{
+a:link :hover{
     text-decoration: underline;
 }
 
