@@ -37,19 +37,19 @@ a, body {
     color: var(--text-color);
 }
 
-a {
+a:not(:empty):link {
     text-decoration: none;
 }
 
-a[href]:visited {
+a:not(:empty):visited {
     font-style: italic;
 }
 
-a[href]:hover {
+a:not(:empty):hover {
     text-decoration: underline;
 }
 
-a[href]:active {
+a:not(:empty):active {
     color: var(--color-light-grey);
 }
 
