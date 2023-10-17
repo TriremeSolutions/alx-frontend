@@ -49,6 +49,10 @@ a:hover{
     text-decoration: underline;
 }
 
+a:active{
+    color: var(--color-light-grey);
+}
+
 body {
     font-family: var(--font-family-base);
     font-size: var(--font-size-medium);
