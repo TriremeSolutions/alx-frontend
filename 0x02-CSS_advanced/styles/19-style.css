@@ -169,18 +169,18 @@ body {
 }
 
 .col-1-3 {
-    width: 33.33%;
+    width: 0.3333;
     float: left;
     padding: 0.5rem;
 }
 
 .col-1-2 {
-    width: 50%;
+    width: 0.5;
     float: left;
     padding: 0.5rem;
 }
 
-.footer_copyright {
+.footer-copyright {
     margin: 0;
     font-size: var(--font-size-small);
     color: var(--text-color);
