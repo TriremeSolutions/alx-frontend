@@ -153,10 +153,7 @@ body {
 
 .nav .nav-link {
     display: block;
-    padding-top: 50%;
-    padding-bottom: 50%;
-    padding-left: 100%;
-    padding-right: 100%;
+    padding: 50% 100% 50% 100%;
 }
 
 .nav .nav-link:hover{
