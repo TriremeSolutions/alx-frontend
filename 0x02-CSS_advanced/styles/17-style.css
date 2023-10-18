@@ -133,8 +133,5 @@ body {
 }
 
 .footer{
-    padding-left: var(--footer-padding);
-    padding-right: var(--footer-padding);
-    padding-top: var(--footer-padding);
-    padding-bottom: var(--footer-padding);
+    padding: var(--footer-padding);
 }
