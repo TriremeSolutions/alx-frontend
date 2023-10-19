@@ -292,7 +292,7 @@ ul.row{
     padding: 10rem 40rem 2rem 0;
 }
 
-header {
+.header {
     padding: var(--header-padding);
 }
 
@@ -302,6 +302,7 @@ header {
 
 .header-logo a {
     display: var(--header-logo-link-display);
+    position: var(--header-logo-link-position);
     left: var(--header-logo-link-left);
     top: var(--header-logo-link-top);
 }
