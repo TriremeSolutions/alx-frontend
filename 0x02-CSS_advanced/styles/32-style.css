@@ -110,7 +110,7 @@ a:active{
     background: var(--button-hover-background);
 /*32*/
     transition-duration: var(--transition-duration);
-    transition-property: background-color, color;
+    transition-property: color;
 }
 
 body {
